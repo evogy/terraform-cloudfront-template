@@ -1,4 +1,4 @@
-# terraform-cloufront-template
+# terraform-cloudfront-template
 This terraform project provides a ready to use module to create an infrastracture for a Single Page Web Application.
 In details, this module create:
  - A S3 bucket where the application file will be stored
